@@ -27,7 +27,7 @@
 "lookup": "properties.NAME",
 "from": {
 "data": {
-"url": "https://raw.githubusercontent.com/HongnuoLyu/3179-testrepo/main/hww9.csv"
+"url": "https://raw.githubusercontent.com/HongnuoLyu/Week9Homework/main/week9Homework/hww9.csv"
 },
 "key": "Row Labels",
 "fields": ["Number of Terrorist Incidents", "Sum of Killed","Sum of Wounded"]
